@@ -1,4 +1,4 @@
-# WordPress Email Utils
+# WordPress Email Utilities
 
 A lightweight PHP library for email address operations, validation, anonymization, and privacy-compliant handling. Designed with clean APIs and efficient bulk operations.
 
